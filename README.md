@@ -60,3 +60,4 @@ And more results are available under **/result** folder
 ### Fast Dense Feature Extraction
 * [https://www.dfki.de/fileadmin/user_upload/import/9245_FastCNNFeature_BMVC.pdf](https://www.dfki.de/fileadmin/user_upload/import/9245_FastCNNFeature_BMVC.pdf)
 * [https://github.com/erezposner/Fast_Dense_Feature_Extraction](https://github.com/erezposner/Fast_Dense_Feature_Extraction)
+# Student-Teacher-AD
